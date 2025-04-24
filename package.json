@@ -2,7 +2,6 @@
   "name": "namaste_react_1",
   "version": "1.0.0",
   "description": "This is namaste react by Shubhangi Kumbhar",
-  "main": "app.js",
   "scripts": {
     "test": "jest"
   },
@@ -19,5 +18,9 @@
   "homepage": "https://github.com/Shubhangi-Kumbhar/namaste-react1#readme",
   "devDependencies": {
     "parcel": "^2.14.4"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
   }
 }
